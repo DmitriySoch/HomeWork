@@ -1,6 +1,0 @@
-C:\Users\dmitr\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
-C:\Users\dmitr\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\HomeWork.exe.config
-C:\Users\dmitr\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\HomeWork.exe
-C:\Users\dmitr\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\HomeWork.pdb
-C:\Users\dmitr\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\HomeWork.exe
-C:\Users\dmitr\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\HomeWork.pdb
